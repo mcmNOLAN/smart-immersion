@@ -1,6 +1,6 @@
-package com.ceramicegg.smartimmersion;
+// package com.ceramicegg.smartimmersion;
 
-import org.springframework.data.repository.CrudRepository;
+// import org.springframework.data.repository.CrudRepository;
 
-public interface CatRepository extends CrudRepository<CatFact, Long> {
-}
+// public interface CatRepository extends CrudRepository<CatFact, Long> {
+// }
